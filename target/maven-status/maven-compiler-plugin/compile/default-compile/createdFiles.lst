@@ -1,0 +1,14 @@
+to\struc\testlargestl\STLFileReader.class
+to\struc\testlargestl\STLBinaryParser.class
+to\struc\testlargestl\FXMLController.class
+to\struc\testlargestl\MainApp.class
+to\struc\testlargestl\LittleEndianConverter.class
+to\struc\testlargestl\VertexMap.class
+to\struc\testlargestl\Edge.class
+to\struc\testlargestl\InvalidFormatException.class
+to\struc\testlargestl\STLASCIIParser.class
+to\struc\testlargestl\FacetMap.class
+to\struc\testlargestl\I18nManager.class
+to\struc\testlargestl\STLParser.class
+to\struc\testlargestl\MeshAnalyser.class
+to\struc\testlargestl\EdgeMap.class

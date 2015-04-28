@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="480" prefWidth="800" xmlns:fx="http://javafx.com/fxml" fx:controller="to.struc.testlargestl.FXMLController">
+    <children>
+        <Pane id="mainPane" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <children>
+                <Group fx:id="meshGroup" />
+            </children>
+        </Pane>
+        <Button layoutX="20" layoutY="20" text="Open File" onAction="#handleButtonAction" fx:id="button" />
+    </children>
+</AnchorPane>

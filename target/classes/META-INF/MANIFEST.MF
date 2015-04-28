@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: StlMeshImporterJFX
+Specification-Vendor: InteractiveMesh e.K.
+Specification-Version: 0.7 - preliminary
+Implementation-Title: StlMeshImporterJFX
+Implementation-Vendor: InteractiveMesh e.K.
+Implementation-Version: 0.7 - early access
